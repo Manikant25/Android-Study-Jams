@@ -8,3 +8,7 @@ In college many times students are involved in group projects either academicall
 ## Proposed Solution :
 
 This project proposes a “TaskDiver App”, in which we can store all the subtask needed to accomplish a task or project. We can give title of the task, its priority and a small decription. There is an option to sort the task according to priority. For instance we have less time then we can sort all task according to its priority and do them first. Also we can search a particular task. This project needs to be extended more to become to usable and it could be used for variety of task, which may solve many problems of people.
+
+# ScreenShot of App
+
+![App-ScreenShot](https://github.com/Manikant25/TaskDivider-Android-App/blob/dev1/Screenshots/GridArt_20220108_215821596.jpg)
